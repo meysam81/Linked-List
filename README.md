@@ -1,2 +1,2 @@
-#Linked list
-###A c++ implementation of linked list
+Linked list
+A c++ implementation of linked list
